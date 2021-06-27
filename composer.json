@@ -1,0 +1,13 @@
+{
+    "name": "xexe/robo",
+    "authors": [
+        {
+            "name": "zhukzhuk15",
+            "email": "pain24@mail.ru"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "^3.9",
+        "guzzlehttp/guzzle": "7.0"
+    }
+}
